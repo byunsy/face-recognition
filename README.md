@@ -29,3 +29,9 @@ Move to your specific directory and execute the program.
 ```bash
 python face_recog.py
 ```
+
+## Demonstrations
+
+The program can accurately recognize my face and distinguish it from other human faces.
+
+![](images/face_rec.gif)
