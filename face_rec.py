@@ -87,7 +87,7 @@ while True:
         # cv2.putText(frame, label, (x1, y1 - 5), cv2.FONT_HERSHEY_SIMPLEX, 
         #             0.8, (0, 255, 0), 2, cv2.LINE_AA)
 
-    cv2.imshow('frame', frame)
+    cv2.imshow('Face Recognition', frame)
 
     if cv2.waitKey(1) == 27:
         break
