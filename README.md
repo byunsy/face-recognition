@@ -6,7 +6,7 @@ Face-recognition is repository with three main programs. First is the **face_cap
 
 The last program is **face_recog.py** which is capable of accurately recognizing and distinguishing my face from other human faces. It uses a frozen graph created by the Face_Recognition.ipynb file to accurately detect my face and distinguish it from other human faces. The program will label my face with a green border-box and label other human faces with red ones.
 
-The objective of the face-recognition project was to apply fundamental deep learning knowledge to create a personalized CNN model. The biggest challenge here was the process of creating and transferring the frozen graph from Jupyter Notebook to use it on real-time command program. Further improvements can be made by increasing the sample size of the datasets (more face captures) and exploring with transfer learning to train the model to recognize my face.
+The objective of the face-recognition project was to apply fundamental deep learning knowledge to create a personalized CNN model rather than a typical model found elsewhere. The biggest challenge here was the process of creating and transferring the frozen graph from Jupyter Notebook to use it on real-time command program. It also took quite some time and effort to create large sets of images of my face. Overall, the project helped me understand the general process of preparing, creating, training, transferring, and implementing a customized CNN model. Further improvements can be made by increasing the sample size of the datasets (more face captures) and exploring with transfer learning to train the model to recognize my face.
 
 ## Installation
 
